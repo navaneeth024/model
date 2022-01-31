@@ -1,1 +1,3 @@
 an example for checking rebase
+change1
+change2
